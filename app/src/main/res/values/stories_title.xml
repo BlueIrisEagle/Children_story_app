@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_titles">
+
+        <item>Story 1</item>
+        <item>Story 2</item>
+        <item>Story 3</item>
+        <item>Story 4</item>
+
+    </string-array>
+
+</resources>
